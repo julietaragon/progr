@@ -1,3 +1,4 @@
+//Aragón Julieta, comisión 2, DNI 46424925
 PImage paisaje;
 
 void mouseClicked(){
