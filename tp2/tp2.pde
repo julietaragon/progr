@@ -1,3 +1,4 @@
+//Aragón Julieta, comisión 2, DNI 46424925
 String estado;
 PImage imagen1, imagen2, imagen3;
 
